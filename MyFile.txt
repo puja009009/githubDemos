@@ -12,3 +12,8 @@ Adding this line from git
 Adding this line from Local Reporistory
 dfdfrdgdtrhfyhtfhtfh
 trying to add checkout 
+
+public void logout()
+{
+this is code
+}
