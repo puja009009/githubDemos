@@ -17,4 +17,7 @@ trying to add checkout
 public void login()
 {
     this is code for login
+public void logout()
+{
+this is code
 }
